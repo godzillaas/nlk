@@ -1,0 +1,17 @@
+{
+    "mainaddress": {
+        "address": "0x798320298xxxxxxxxxxxxxxxxxxxxxxxxxxec81d854036",
+        "privatekey": "978cf410765b0998xxxxxxxxxxxxxxxxxxxxxxxxxxec81d8562xxxxxxxxxxxxxxxxxxxxxxxxxxec81d85"
+    },
+    "faucet": [
+        "52f8d1ef950f4edxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxec81d85",
+        "caba220254025xxxxxxxxxxxxxxxxxxxxxxxx4025xxxxxxxxxxxxxxx6b"
+    ],
+    "targtaddress": [
+        "0xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxDD374b9",
+        "0xA5E6xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
+        "0x6e4025xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
+        "0x33525fc3fae44025xxxxxxxxxxxxxxxxxxxxxxxxx8",
+        "0xCfe6bxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
+    ]
+}
