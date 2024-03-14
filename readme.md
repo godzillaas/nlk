@@ -1,3 +1,6 @@
+安装所有依赖
+npm i
+--配置讲解
 -- {
     "mainaddress": {
         "address": "0x79832xxxxx31ExxxxxxDxxxxx44036",
